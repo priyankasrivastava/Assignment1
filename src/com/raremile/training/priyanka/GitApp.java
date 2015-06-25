@@ -5,7 +5,11 @@ public class GitApp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("My name is"+name+".I know some Git. Changed for Part 2.");
+
+System.out.println("My name is"+name+".I know a lot more Git.I know how to merge!. Changed for Part 2.");
+
+System.out.println("My name is"+name+".I Know a lot more git.I know how to merge!. Changed for Part 3.");
+
 	}
 
 }
